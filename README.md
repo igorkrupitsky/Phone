@@ -15,7 +15,7 @@ To use Web Sockets, your web server needs to have ASP.NET 4.5 or higher and WebS
 
 ![](img/iis_websockets_install.png)
 
-To setup the allocation, unzip Phone.zip to a C:\inetpub\wwwroot\Phoneon your web server. Open IIS Console and create virtual directory called Phone.
+To setup the allocation, unzip Phone.zip to a C:\inetpub\wwwroot\Phone on your web server. Open IIS Console and create virtual directory called Phone.
 
 ## Using the Code
 
